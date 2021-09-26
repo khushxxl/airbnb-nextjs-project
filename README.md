@@ -6,6 +6,10 @@ It uses the new [`Just-in-Time Mode`](https://tailwindcss.com/docs/just-in-time-
 
 ## Preview
 
+<img width="1440" alt="Screenshot 2021-09-26 at 9 04 33 AM" src="https://user-images.githubusercontent.com/73185436/134792529-a2c5c54f-29c0-46de-a6ea-b79d17fb8e5a.png">
+<img width="1440" alt="Screenshot 2021-09-26 at 9 04 41 AM" src="https://user-images.githubusercontent.com/73185436/134792511-6b67f1fe-724e-4d32-abec-6f5283f1cebf.png">
+<img width="1440" alt="Screenshot 2021-09-26 at 9 06 12 AM" src="https://user-images.githubusercontent.com/73185436/134792514-18942652-a1fa-446a-ab22-deabd95b51e5.png">
+
 Preview the example live on [StackBlitz](http://stackblitz.com/):
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
