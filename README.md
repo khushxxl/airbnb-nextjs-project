@@ -4,9 +4,9 @@ This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](
 
 It uses the new [`Just-in-Time Mode`](https://tailwindcss.com/docs/just-in-time-mode) for Tailwind CSS.
 
-## This is a completely responsive website and it can br preview here : 
+## This is a completely responsive website and it can be preview here : 
 
-AirBnB Clone(https://airbnb-nextjs-project-blond.vercel.app)
+Airbnb Clone -> (https://airbnb-nextjs-project-blond.vercel.app)
 
 ## Preview
 
